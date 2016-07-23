@@ -1,2 +1,2 @@
 # SmallAnt_iOS
-Small Ant Client for iOS
+Small Ant Housing Moving Client for iOS
